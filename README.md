@@ -1,3 +1,39 @@
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
-<hr>
-<img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400"><img align="center" src="/metrics.plugin.languages.mostused.details.svg" alt="Metrics" width="400">
+<h1 align="center">MarcL Dev</h1>
+
+- 18y (15/08)
+- Aprimorando meus conhecimentos técnicos
+- Desenvolvedor Back-End
+<hr/>
+
+### 💻 `×` Tecnologias e ferramentas
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=react,angular,arduino,c,cs,cpp,css,deno,dotnet,electron,express,flutter,html,js,mongodb,mysql,nodejs,php,py,ts,bootstrap,java' />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=ae,androidstudio,au,blender,codepen,discord,eclipse,figma,firebase,gcp,github,gitlab,ai,linkedin,ps,pr,stackoverflow,twitter,unity,unreal,visualstudio,vscode,wordpress' />
+    </a>
+  </p>
+
+### 📚 `×` Status do Github
+
+<table>
+  <tr>
+      <td style="padding: 0; width=50%">
+        <img align="center" src="/github-metrics.svg" alt="Metrics" width=100%>
+    </td>
+    <td style="padding: 0; width=50%">
+        <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="padding: 0; width=100%">
+        <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+    </td>
+   </tr>
+</table>
