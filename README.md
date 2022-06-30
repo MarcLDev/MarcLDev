@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td style="padding: 0; width=100%">
-        <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+        <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width=100%>
     </td>
    </tr>
 </table>
