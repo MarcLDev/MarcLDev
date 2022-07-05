@@ -29,7 +29,7 @@
         <img align="center" src="/github-metrics.svg" alt="Metrics" width=100%>
     </td>
     <td style="padding: 0; width=50%">
-        <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics">
+        <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" style="padding: 0; width=100%">
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td style="padding: 0; width=100vw">
-        <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" style="padding: 0; width=100%">
+        <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics">
     </td>
    </tr>
 </table>
