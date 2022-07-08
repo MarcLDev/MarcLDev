@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td style="padding: 0; width=50%">
-        <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics">
+        <img align="center" src="/metrics.plugin.languages.mostused.details.svg" alt="Metrics">
     </td>
     <td style="padding: 0; width=50%">
         <img align="center" src="/metrics.plugin.languages.recent.svg" alt="Metrics">
