@@ -37,8 +37,13 @@
 <br>
 <table>
   <tr>
-    <td style="padding: 0; width=100vw">
+    <td style="padding: 0; width=50%">
         <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics">
+    </td>
+   </tr>
+   <tr>
+    <td style="padding: 0; width=50%">
+        <img align="center" src="/metrics.plugin.languages.recent.svg" alt="Metrics">
     </td>
    </tr>
 </table>
