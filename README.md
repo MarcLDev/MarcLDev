@@ -1,27 +1,30 @@
-<h1 align="center">MarcL Dev</h1>
+<h1 align="left">Hello there! I'm Marcelo!</h1>
 
 - 18y (15/08)
-- Aprimorando meus conhecimentos técnicos
-- Desenvolvedor Back-End
-<hr/>
+- Back-End Dev
 <br>
 
-### 💻 `×` Tecnologias e ferramentas
+### 🔗 `×` Languages and Tools:
+
+  <p align="left">
+    <a href="https://skillicons.dev"">
+      <img src='https://skillicons.dev/icons?i=react,c,cs,html,css,js,ts,nodejs,py,mongodb,mysql,java,flutter' style="height: 40px;">
+    </a>
+  </p>
   <br>
-  <p align="center">
+
+### 💻 `×` Softwares:
+
+  <p align="left">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=react,angular,arduino,c,cs,cpp,css,deno,dotnet,electron,express,flutter,html,js,mongodb,mysql,nodejs,php,py,ts,bootstrap,java' />
+      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,unreal,figma' style="height: 40px;"/>
     </a>
   </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=ae,androidstudio,au,blender,codepen,discord,eclipse,figma,firebase,gcp,github,gitlab,ai,linkedin,ps,pr,stackoverflow,twitter,unity,unreal,visualstudio,vscode,wordpress' />
-    </a>
-  </p>
+  <br>
   <hr/>
   <br>
   
-### 📚 `×` Status do Github
+### 📊 `×` Github Stats:
 
 <table>
   <tr>
