@@ -1,7 +1,6 @@
 <h1 align="left">Hello there! I'm Marcelo!</h1>
+<img align="center" src="/Banner.png" style="padding: 0; box-shadow: 3px 3px 10px #00000035; width=100%;">
 
-- 18y (15/08)
-- Back-End Dev
 <br>
 
 ### 🔗 `×` Languages and Tools:
